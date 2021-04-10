@@ -2,4 +2,4 @@
 
 fundamentos básicos de React JS
 
-Autora: kathelyn
+Autora: kathelyn Menezes
